@@ -1,0 +1,13 @@
+#padding-custom {
+  font-family: sans-serif;
+  padding: 20px;
+  border: 5px black solid;
+  margin: 5px;
+}
+
+#heightwidth {
+  width: 50%;
+  height: 50px;
+  background-color: crimson;
+  font-family: sans-serif;
+}
